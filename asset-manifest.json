@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RabbitWolfReact/static/css/main.bc718be1.css",
+    "main.js": "/RabbitWolfReact/static/js/main.e8fb399b.js",
+    "static/js/453.ed3810f9.chunk.js": "/RabbitWolfReact/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/RabbitWolfReact/index.html",
+    "main.bc718be1.css.map": "/RabbitWolfReact/static/css/main.bc718be1.css.map",
+    "main.e8fb399b.js.map": "/RabbitWolfReact/static/js/main.e8fb399b.js.map",
+    "453.ed3810f9.chunk.js.map": "/RabbitWolfReact/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc718be1.css",
+    "static/js/main.e8fb399b.js"
+  ]
+}
